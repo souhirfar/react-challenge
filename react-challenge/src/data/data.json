@@ -1,0 +1,58 @@
+[
+    {
+        "id": "sk1",
+        "title": "Collier zircone cubique et disque à boucle ot",
+        "description": "Sexe: Femme\nTissu/matériel: Acier inoxydable\nCouleur: Or jaune\nStyle: À la mode\ndétails: Strass, Rond",
+        "price": "20$",
+        "image": "./pictureA/AA.png",
+        "category": "Accessoire"
+    },
+    {
+        "id": "sk2",
+        "title": "Collier à pendentif fleur",
+        "description": "Sexe: Femme\nTissu/matériel: Acier inoxydable\nCouleur: multicolore",
+        "price": "50$",
+        "image": "./pictureA/B.png",
+        "category": "Accessoire"
+    },
+    {
+        "id": "sk3",
+        "title": "Collier à pendentif arbre",
+        "description": "Sexe: Femme\nTissu/matériel: Acier inoxydable\nCouleur: Or jaune\nStyle: À la mode\ndétails: Strass, Rond",
+        "price": "20$",
+        "image": "./pictureA/C.png",
+        "category": "Accessoire"
+    },
+    {
+        "id": "sk4",
+        "title": "Collier à pendentif coeur",
+        "description": "Sexe: Femme\nTissu/matériel: Acier inoxydable\nCouleur: Or jaune\nStyle: À la mode\ndétails: Strass, Rond",
+        "price": "20$",
+        "image": "./pictureA/D.png",
+        "category": "Accessoire"
+    },
+    {
+        "id": "sk5",
+        "title": "Collier Avec Pendentif noeud",
+        "description": "Sexe: Femme\nTissu/matériel: Acier inoxydable\nCouleur: Or jaune\nStyle: À la mode\ndétails: Strass, Rond",
+        "price": "30$",
+        "image": "./pictureA/E.png",
+        "category": "Accessoire"
+    },
+    {
+        "id": "sk6",
+        "title": "Collier Avec Pendentif slogan &  Cercle",
+        "description": "Sexe: Femme\nTissu/matériel: Acier inoxydable\nCouleur: Or jaune\nStyle: À la mode\ndétails: Strass, Rond",
+        "price": "10$",
+        "image": "./pictureA/F.png",
+        "category": "Accessoire"
+    },
+    {
+        "id": "sk7",
+        "title": "Collier Avec Pendentif La Saint-Valentin",
+        "description": "Sexe: Femme\nTissu/matériel: Acier inoxydable\nCouleur: Or jaune\nStyle: À la mode\ndétails: Strass, Rond",
+        "price": "60$",
+        "image": "./pictureA/G.png",
+        "category": "Accessoire"
+    }
+]
